@@ -5,21 +5,13 @@
 
 #### 说点什么：
 
-之前也有想到伪造心跳包的方法去快速刷网课，结果上GitHub一搜发现有师兄已经实现了这个思路。
-
-在此十分感谢@[heyblackC](https://github.com/heyblackC)，让我不用再研究包里变量含义了hhhh
+pyqt界面和后端
 
 以下是原脚本仓库：
 
-https://github.com/heyblackC/yuketangHelper
+https://github.com/Cat1007/yuketangHelperSCUTLite
 
 
-
-#### 脚本改进：
-
-- 修改一些域名及对应的参数，适配本科生系统
-- 修复一个正则表达式匹配Bug
-- 修改了一些文本提示
 
 
 
