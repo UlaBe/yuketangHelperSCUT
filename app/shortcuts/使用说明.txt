@@ -1,0 +1,39 @@
+快捷方式使用说明
+==================
+
+程序信息:
+- 程序名称: videoHelper.exe
+- 程序路径: D:\python project\yuketangHelperSCUTLite\app\videoHelper.exe
+- 创建时间: 2025-08-30 23:30:41
+
+快捷方式说明:
+
+批处理启动器（推荐）:
+- 文件: videoHelper_启动器.bat
+- 路径: D:\python project\yuketangHelperSCUTLite\app\shortcuts\videoHelper_启动器.bat
+
+PowerShell启动器:
+- 文件: videoHelper_启动器.ps1
+- 路径: D:\python project\yuketangHelperSCUTLite\app\shortcuts\videoHelper_启动器.ps1
+
+Windows快捷方式:
+- 文件: videoHelper.lnk
+- 路径: D:\python project\yuketangHelperSCUTLite\app\shortcuts\videoHelper.lnk
+
+
+使用建议:
+1. 【推荐】使用批处理启动器(.bat文件)，兼容性最好
+2. 可以将整个文件夹复制到其他电脑上，快捷方式仍然有效
+3. 如果程序依赖特定的文件或配置，请确保这些文件在程序目录中
+
+故障排除:
+- 如果双击启动器没有反应，请检查程序文件是否存在
+- 如果出现错误提示，请查看控制台输出的详细信息
+- 确保程序目录中包含所有必需的依赖文件
+
+技术说明:
+- 所有启动器都使用相对路径，支持目录移动
+- 批处理启动器会自动切换到程序所在目录
+- PowerShell启动器提供更详细的错误信息
+
+本快捷方式套件由小辉nuitkaGUI自动生成

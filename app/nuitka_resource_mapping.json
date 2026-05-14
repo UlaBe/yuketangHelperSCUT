@@ -1,0 +1,21 @@
+{
+  "nuitka_compiled": true,
+  "resource_mappings": {},
+  "directory_mappings": {},
+  "generation_time": 1756568568.6541662,
+  "nuitka_version": "2.7.2+",
+  "mapping_version": "1.1",
+  "auto_updated": true,
+  "config_signature": "28364b64cac6c740cb22b427876ff028",
+  "path_strategies": {
+    "standalone_mode": true,
+    "use_compiled_containing_dir": false,
+    "resource_access_method": "relative_to_program_root",
+    "fallback_enabled": true
+  },
+  "usage_hints": {
+    "description": "Use the directory_mappings and resource_mappings above to find your resources",
+    "example_usage": "Check if file exists in resource_mappings, then use the mapped path",
+    "fallback_strategy": "If not found in mappings, try relative paths from program root"
+  }
+}
